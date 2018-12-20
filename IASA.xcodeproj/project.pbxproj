@@ -13,9 +13,12 @@
 		1B34F8DE21B1292B006DBA01 /* ModelController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B34F8DD21B1292B006DBA01 /* ModelController.swift */; };
 		1B34F8E121B1292B006DBA01 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B34F8DF21B1292B006DBA01 /* Main.storyboard */; };
 		1B34F8E321B1292C006DBA01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B34F8E221B1292C006DBA01 /* Assets.xcassets */; };
-		1B34F8E621B1292C006DBA01 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B34F8E421B1292C006DBA01 /* LaunchScreen.storyboard */; };
 		1B34F8F121B1292C006DBA01 /* IASATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B34F8F021B1292C006DBA01 /* IASATests.swift */; };
 		1B34F8FC21B1292C006DBA01 /* IASAUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B34F8FB21B1292C006DBA01 /* IASAUITests.swift */; };
+		1B5DD72121CB634F00DF51EE /* NanumGothicLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1B5DD71D21CB634F00DF51EE /* NanumGothicLight.otf */; };
+		1B5DD72221CB634F00DF51EE /* NanumGothic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1B5DD71E21CB634F00DF51EE /* NanumGothic.otf */; };
+		1B5DD72321CB634F00DF51EE /* NanumGothicBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1B5DD71F21CB634F00DF51EE /* NanumGothicBold.otf */; };
+		1B5DD72421CB634F00DF51EE /* NanumGothicExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1B5DD72021CB634F00DF51EE /* NanumGothicExtraBold.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,7 +46,6 @@
 		1B34F8DD21B1292B006DBA01 /* ModelController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelController.swift; sourceTree = "<group>"; };
 		1B34F8E021B1292B006DBA01 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1B34F8E221B1292C006DBA01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		1B34F8E521B1292C006DBA01 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B34F8E721B1292C006DBA01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1B34F8EC21B1292C006DBA01 /* IASATests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IASATests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B34F8F021B1292C006DBA01 /* IASATests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IASATests.swift; sourceTree = "<group>"; };
@@ -51,6 +53,11 @@
 		1B34F8F721B1292C006DBA01 /* IASAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IASAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B34F8FB21B1292C006DBA01 /* IASAUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IASAUITests.swift; sourceTree = "<group>"; };
 		1B34F8FD21B1292C006DBA01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B5DD71D21CB634F00DF51EE /* NanumGothicLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = NanumGothicLight.otf; path = "../../../../../../../../../Volumes/OTF 나눔글꼴 모음 맥용/NanumGothicLight.otf"; sourceTree = "<group>"; };
+		1B5DD71E21CB634F00DF51EE /* NanumGothic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = NanumGothic.otf; path = "../../../../../../../../../Volumes/OTF 나눔글꼴 모음 맥용/NanumGothic.otf"; sourceTree = "<group>"; };
+		1B5DD71F21CB634F00DF51EE /* NanumGothicBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = NanumGothicBold.otf; path = "../../../../../../../../../Volumes/OTF 나눔글꼴 모음 맥용/NanumGothicBold.otf"; sourceTree = "<group>"; };
+		1B5DD72021CB634F00DF51EE /* NanumGothicExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = NanumGothicExtraBold.otf; path = "../../../../../../../../../Volumes/OTF 나눔글꼴 모음 맥용/NanumGothicExtraBold.otf"; sourceTree = "<group>"; };
+		1B91410F21B1618600C54AFD /* IASA.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = IASA.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,13 +108,14 @@
 		1B34F8D621B1292B006DBA01 /* IASA */ = {
 			isa = PBXGroup;
 			children = (
+				1B5DD71B21CB625900DF51EE /* Resources */,
+				1B91410F21B1618600C54AFD /* IASA.entitlements */,
 				1B34F8D721B1292B006DBA01 /* AppDelegate.swift */,
 				1B34F8D921B1292B006DBA01 /* RootViewController.swift */,
 				1B34F8DB21B1292B006DBA01 /* DataViewController.swift */,
 				1B34F8DD21B1292B006DBA01 /* ModelController.swift */,
 				1B34F8DF21B1292B006DBA01 /* Main.storyboard */,
 				1B34F8E221B1292C006DBA01 /* Assets.xcassets */,
-				1B34F8E421B1292C006DBA01 /* LaunchScreen.storyboard */,
 				1B34F8E721B1292C006DBA01 /* Info.plist */,
 			);
 			path = IASA;
@@ -129,6 +137,25 @@
 				1B34F8FD21B1292C006DBA01 /* Info.plist */,
 			);
 			path = IASAUITests;
+			sourceTree = "<group>";
+		};
+		1B5DD71B21CB625900DF51EE /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1B5DD71C21CB626400DF51EE /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		1B5DD71C21CB626400DF51EE /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				1B5DD71E21CB634F00DF51EE /* NanumGothic.otf */,
+				1B5DD71F21CB634F00DF51EE /* NanumGothicBold.otf */,
+				1B5DD72021CB634F00DF51EE /* NanumGothicExtraBold.otf */,
+				1B5DD71D21CB634F00DF51EE /* NanumGothicLight.otf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,6 +226,11 @@
 				TargetAttributes = {
 					1B34F8D321B1292B006DBA01 = {
 						CreatedOnToolsVersion = 10.1;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 0;
+							};
+						};
 					};
 					1B34F8EB21B1292C006DBA01 = {
 						CreatedOnToolsVersion = 10.1;
@@ -235,9 +267,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1B34F8E621B1292C006DBA01 /* LaunchScreen.storyboard in Resources */,
 				1B34F8E321B1292C006DBA01 /* Assets.xcassets in Resources */,
 				1B34F8E121B1292B006DBA01 /* Main.storyboard in Resources */,
+				1B5DD72121CB634F00DF51EE /* NanumGothicLight.otf in Resources */,
+				1B5DD72321CB634F00DF51EE /* NanumGothicBold.otf in Resources */,
+				1B5DD72221CB634F00DF51EE /* NanumGothic.otf in Resources */,
+				1B5DD72421CB634F00DF51EE /* NanumGothicExtraBold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,14 +342,6 @@
 				1B34F8E021B1292B006DBA01 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		1B34F8E421B1292C006DBA01 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1B34F8E521B1292C006DBA01 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
